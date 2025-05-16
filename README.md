@@ -1,6 +1,6 @@
 
   <span>
-    <img align="right" src="https://komarev.com/ghpvc/?username=GaruVA&label=Profile%20views&color=blueviolet&style=pixel" alt="GaruVA" />  
+    <img align="right" src="https://komarev.com/ghpvc/?username=GaruVA&label=Profile%20views&color=blueviolet&style=pixel" alt="GaruVA" /> 
   </span>
 
 
